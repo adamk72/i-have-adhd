@@ -59,17 +59,18 @@ A skill for your coding assistant that stops it from burying the answer. Action 
 
 ## The rules
 
-9 rules. Full text in [SKILL.md](./skills/i-have-adhd/SKILL.md).
+10 rules. Full text in [SKILL.md](./skills/i-have-adhd/SKILL.md).
 
 1. Lead with the next action.
 2. Number multi-step tasks.
 3. End with one concrete next step.
 4. Suppress tangents.
 5. Restate state every turn.
-6. Make wins visible.
-7. Matter-of-fact errors.
-8. Cap lists at 5 items.
-9. No preamble. No recap. No closers.
+6. Ask questions in batches (2 to 3 per turn).
+7. Make wins visible.
+8. Matter-of-fact errors.
+9. Cap lists at 5 items.
+10. No preamble. No recap. No closers.
 
 ## Tune it
 
