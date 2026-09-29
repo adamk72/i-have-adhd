@@ -351,30 +351,6 @@ hermes skills uninstall i-have-adhd
 
 </details>
 
-<details>
-<summary><strong>Kimi Code CLI</strong></summary>
-
-### 安装
-
-启动一个 Kimi Code 会话，然后：
-
-1. 输入 `/plugins`。
-2. 选择 **Custom**。
-3. 粘贴 `https://github.com/ayghri/i-have-adhd` 并 Enter。
-4. 选择 **Trust and install**。
-
-使用斜杠命令 `/skill:i-have-adhd` 显式调用此技能。
-
-### 更新
-
-在 Kimi Code 会话中输入 `/plugins`，将光标移至 **I Have ADHD**，按 `R`。
-
-### 卸载
-
-在 Kimi Code 会话中输入 `/plugins`，将光标移至 **I Have ADHD**，按 `D`。
-
-</details>
-
 
 <details>
 <summary><strong>Pi</strong></summary>

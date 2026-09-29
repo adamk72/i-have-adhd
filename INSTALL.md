@@ -354,31 +354,6 @@ Exceptions: explain fully when asked to explain. Confirm before destructive acti
 </details>
 
 <details>
-<summary><strong>Kimi Code CLI</strong></summary>
-
-### Install
-
-Start a Kimi Code session, then:
-
-1. Run `/plugins`.
-2. Choose **Custom**.
-3. Paste `https://github.com/ayghri/i-have-adhd` and press `Enter`.
-4. Choose **Trust and install**.
-
-Use slash command `/skill:i-have-adhd` to invoke the skill explicitly.
-
-### Update
-
-`/plugins` in Kimi Code session, cursor to **I Have ADHD**, press `R`.
-
-### Uninstall
-
-`/plugins` in Kimi Code session, cursor to **I Have ADHD**, press `D`.
-
-
-</details>
-
-<details>
 <summary><strong>Pi</strong></summary>
 
 Pi discovers this repository as a native package: `extensions/` provides the session-persistent mode and `skills/` keeps the Agent Skills entry point available.

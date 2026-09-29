@@ -15,18 +15,10 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
 RPC_TIMEOUT_SECONDS = 30
-SHARED_MANIFEST_FIELDS = ("name", "version", "description", "license", "homepage")
 
 
 def validate_package_manifest() -> None:
     package = json.loads((ROOT / "package.json").read_text(encoding="utf8"))
-    kimi = json.loads((ROOT / "kimi.plugin.json").read_text(encoding="utf8"))
-
-    for field in SHARED_MANIFEST_FIELDS:
-        assert package.get(field) == kimi.get(field), (
-            f"package.json and kimi.plugin.json disagree on {field}"
-        )
-
     assert package.get("pi") == {
         "extensions": ["./extensions/i-have-adhd.ts"],
         "skills": ["./skills"],

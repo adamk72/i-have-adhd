@@ -351,30 +351,6 @@ Ngoại lệ: giải thích đầy đủ khi được yêu cầu. Xác nhận tr
 
 </details>
 
-<details>
-<summary><strong>Kimi Code CLI</strong></summary>
-
-### Cài đặt
-
-Hãy bắt đầu một phiên Kimi Code, rồi:
-
-1. Chạy `/plugins`.
-2. Chọn **Custom**.
-3. Dán `https://github.com/ayghri/i-have-adhd` rồi nhấn Enter.
-4. Chọn **Trust and install**.
-
-Dùng lệnh slash `/skill:i-have-adhd` để gọi skill một cách rõ ràng.
-
-### Cập nhật
-
-Trong phiên Kimi Code, chạy `/plugins`, đưa con trỏ đến **I Have ADHD**, rồi nhấn `R`.
-
-### Gỡ cài đặt
-
-Trong phiên Kimi Code, chạy `/plugins`, đưa con trỏ đến **I Have ADHD**, rồi nhấn `D`.
-
-</details>
-
 
 <details>
 <summary><strong>Pi</strong></summary>

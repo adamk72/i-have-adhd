@@ -351,30 +351,6 @@ Exceções: explique por completo quando pedirem. Confirme antes de ações dest
 
 </details>
 
-<details>
-<summary><strong>Kimi Code CLI</strong></summary>
-
-### Instalar
-
-Inicie uma sessão do Kimi Code e:
-
-1. Execute `/plugins`.
-2. Selecione **Custom**.
-3. Cole `https://github.com/ayghri/i-have-adhd` e pressione Enter.
-4. Selecione **Trust and install**.
-
-Use o comando slash `/skill:i-have-adhd` para invocar a skill explicitamente.
-
-### Atualizar
-
-Em uma sessão do Kimi Code, execute `/plugins`, posicione o cursor em **I Have ADHD** e pressione `R`.
-
-### Desinstalar
-
-Em uma sessão do Kimi Code, execute `/plugins`, posicione o cursor em **I Have ADHD** e pressione `D`.
-
-</details>
-
 
 <details>
 <summary><strong>Pi</strong></summary>

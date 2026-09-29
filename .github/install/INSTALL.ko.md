@@ -351,30 +351,6 @@ tap도 제거하려면 `hermes skills tap remove ayghri/i-have-adhd`를 실행�
 
 </details>
 
-<details>
-<summary><strong>Kimi Code CLI</strong></summary>
-
-### 설치
-
-Kimi Code 세션을 시작한 뒤 다음을 수행하세요.
-
-1. `/plugins`를 실행합니다.
-2. **Custom**을 선택합니다.
-3. `https://github.com/ayghri/i-have-adhd`를 붙여넣고 Enter를 누릅니다.
-4. **Trust and install**을 선택합니다.
-
-slash 명령 `/skill:i-have-adhd`로 이 스킬을 명시적으로 호출하세요.
-
-### 업데이트
-
-Kimi Code 세션에서 `/plugins`를 실행하고 **I Have ADHD**에 커서를 맞춘 뒤 `R`을 누르세요.
-
-### 제거
-
-Kimi Code 세션에서 `/plugins`를 실행하고 **I Have ADHD**에 커서를 맞춘 뒤 `D`를 누르세요.
-
-</details>
-
 
 <details>
 <summary><strong>Pi</strong></summary>
